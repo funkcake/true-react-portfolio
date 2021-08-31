@@ -5,7 +5,7 @@ const Contact = () => {
         <main>
         <img src={background} alt="" className="absolute object-cover w-full h-full"
             />
-        <section className="relative flex justify-center text-black-200 min-h-screen pt-12 lg:pt-64 px-8">
+        <section className="relative flex justify-center text-black-200 min-h-screen pt-12 lg:pt-64 px-8  font-bold">
         <div>
             Contact<br></br>
             Email: castobrianj@gmail.com<br></br>

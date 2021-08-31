@@ -6,7 +6,7 @@ import Portfolio from './Portfolio';
 import Button from 'react-bootstrap/Button';
 const NavBar = (props) => {
     return (
-        <header>
+        <header class="bg-primary">
             <div class="container">
                 <div class="btn-group">
                     <button class="btn btn-primary" onClick={() => props.setCurrentPage(<Contact/>)}>Contact</button>

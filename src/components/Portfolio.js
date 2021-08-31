@@ -5,7 +5,7 @@ const Portfolio = () => {
         <main>
         <img src={background} alt="" className="absolute object-cover w-full h-full"
             />
-        <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">
+        <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8 font-bold">
         <div>
             Projects<br></br>
             <a href="https://still-plains-06700.herokuapp.com/">REX-Rescue_Express</a><br></br>
