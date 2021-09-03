@@ -15,4 +15,12 @@
 
 .home-name {
   font-size: 150px;
+  text-align: justify;
+}
+
+.pic {
+  width: 50%;
+  object-fit: contain;
+  float: right;
+  border: 2px solid rgb(255, 255, 255);
 }
